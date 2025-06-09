@@ -1,20 +1,17 @@
 # MNIST-GPU
 
-# PyTorch MNIST Training Performance Benchmark
+## Notebook description
 
-A comprehensive comparison of PyTorch model training performance across different platforms and hardware configurations using the MNIST dataset.
-
-## Project Overview
-
-This project benchmarks the time required to train a neural network model on the MNIST dataset for 50 epochs across various computing environments. Our goal is to provide insights into the performance characteristics of different platforms commonly used in machine learning development and research.
+This notebook shows how to check the GPU, load and train the MNIST dataset and model, with training times and how the architecture works.
+We also show the time required to train a CNN (convolutional neural network) model on the MNIST dataset for 50 epochs across various computing environments. Our goal is to show when a GPU is useful for performance (and sometimes necessary)
 
 ## Platforms Tested
 
 - **Keras on JupyterHub** - Cloud-based notebook environment with Keras/TensorFlow backend
 - **Kaggle Notebooks** - Kaggle's free notebook environment
 - **M1 MacBook (Bare Metal)** - Apple Silicon M1 chip with native PyTorch optimization
-- **TensorFlow on Google Colab** - Google's free cloud notebook platform
-- **GPU on Jetstream** - NSF-funded cloud computing platform with dedicated GPU resources
+- **TensorFlow on Google Colab** - Google's cloud notebook platform
+- **GPU on Jetstream2** - NAIRR's NSF-funded cloud computing platform with dedicated GPU resources
 
 ## Dataset
 
