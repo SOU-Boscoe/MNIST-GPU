@@ -1,3 +1,5 @@
+![Southern Oregon University Logo](img/SOU-LOGO-HZ-CMY-POS.png.png)
+
 # MNIST-GPU
 
 ## Notebook description
