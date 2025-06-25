@@ -1,4 +1,4 @@
-![Southern Oregon University Logo](img/SOU-LOGO-HZ-CMY-POS.png.png)
+![Southern Oregon University Logo](img/SOU-LOGO-HZ-CMY-POS.png)
 
 # MNIST-GPU
 
