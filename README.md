@@ -2,6 +2,8 @@
 
 # MNIST-GPU
 
+## Made by SOU Computer Science Students
+
 ## Notebook description
 
 This notebook shows how to check the GPU, load and train the MNIST dataset and model, with training times and how the architecture works.
